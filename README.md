@@ -11,7 +11,7 @@ This resource was created as part of the [NumFOCUS DISC Unconference](https://py
 Wondering why you contribute to Open Source?  Here are a few good reasons it can benefit both you and the world!
 
 ### [Compilation of Open Source Resources](./compilation_of_open_source_resources.md)
-This file includes a collection of external resources (links) that elaborate on how to contribute to Open Source projects effectively as a newbie.
+This file includes a collection of external resources (links) that elaborate on how a novice might contribute to Open Source projects effectively.
 
 ### [How to organize an Open Source sprint](./how_to_organize_an_open_source_sprint.md)
 An Open Source sprint is a short event where groups of people get together to work on a single Open Source project with help from its maintainers.  We provide detailed instructions and resources for organizing an Open Source sprint at your company, club or Meetup Group. 
